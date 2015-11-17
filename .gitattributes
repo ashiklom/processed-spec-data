@@ -1,0 +1,5 @@
+angers.invert.RData filter=lfs diff=lfs merge=lfs -text
+angers.RData filter=lfs diff=lfs merge=lfs -text
+fft.RData filter=lfs diff=lfs merge=lfs -text
+lopex.invert.RData filter=lfs diff=lfs merge=lfs -text
+lopex.RData filter=lfs diff=lfs merge=lfs -text
