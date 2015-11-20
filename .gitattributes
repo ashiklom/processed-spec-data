@@ -1,4 +1,4 @@
 angers.RData filter=lfs diff=lfs merge=lfs -text
 fft.RData filter=lfs diff=lfs merge=lfs -text
 lopex.RData filter=lfs diff=lfs merge=lfs -text
-lopexangers.results.RData filter=lfs diff=lfs merge=lfs -text
+all.results.RData filter=lfs diff=lfs merge=lfs -text
